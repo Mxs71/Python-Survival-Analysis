@@ -1,0 +1,4 @@
+Must install lifelines package (in terminal):
+python -m pip install lifelines
+
+https://zenodo.org/records/14007206
